@@ -2,7 +2,7 @@
 # MNIST Classification with CNN,and Vision Transformer
 
 ## Contexte
-Ce projet a pour objectif d'explorer différentes architectures de réseaux de neurones pour des tâches de vision par ordinateur. Nous avons travaillé sur la classification d'images du dataset **MNIST** en utilisant plusieurs approches : **CNN**, modèles pré-entraînés (**VGG16**, **AlexNet**), et **Vision Transformer (ViT)** implémenté à partir de zéro.  
+Ce projet a pour objectif d'explorer différentes architectures de réseaux de neurones pour des tâches de vision par ordinateur. Nous avons travaillé sur la classification d'images du dataset **MNIST** en utilisant plusieurs approches : **CNN**, modèles pré-entraînés (**VGG16**), et **Vision Transformer (ViT)** implémenté à partir de zéro.  
 
 L'objectif final est de comparer les performances de ces modèles en termes de précision, F1 score, perte, et temps d'entraînement.
 
